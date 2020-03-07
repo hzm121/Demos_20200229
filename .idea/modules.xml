@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Demos_20200229.iml" filepath="$PROJECT_DIR$/.idea/Demos_20200229.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMvcDemoWithJavaConfig_luban/SpringMvcDemoWithJavaConfig_luban.iml" filepath="$PROJECT_DIR$/SpringMvcDemoWithJavaConfig_luban/SpringMvcDemoWithJavaConfig_luban.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrence/concurrence.iml" filepath="$PROJECT_DIR$/concurrence/concurrence.iml" />
       <module fileurl="file://$PROJECT_DIR$/springAop_luban/hello-spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/springAop_luban/hello-spring-cloud-zuul.iml" />
@@ -9,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/rabbitmqdemo_spingboot/rabbitmqdemo_spingboot.iml" filepath="$PROJECT_DIR$/rabbitmqdemo_spingboot/rabbitmqdemo_spingboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/redisDemo/redisDemo.iml" filepath="$PROJECT_DIR$/redisDemo/redisDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springAop_luban/springAop_luban.iml" filepath="$PROJECT_DIR$/springAop_luban/springAop_luban.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/springDemo_20200229.iml" filepath="$PROJECT_DIR$/.idea/springDemo_20200229.iml" />
     </modules>
   </component>
 </project>
