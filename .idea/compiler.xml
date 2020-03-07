@@ -8,17 +8,28 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springAop_luban" />
         <module name="hello-spring-cloud-zuul" />
+        <module name="concurrence" />
+        <module name="rabbitmqdemo_spingboot" />
+        <module name="SpringMvcDemoWithJavaConfig_luban" />
+        <module name="rabbitmqDemo" />
+        <module name="redisDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="concurrence" target="1.7" />
       <module name="hello-spring-cloud-zuul" target="1.8" />
+      <module name="rabbitmqDemo" target="1.5" />
+      <module name="rabbitmqdemo_spingboot" target="1.8" />
+      <module name="redisDemo" target="1.5" />
       <module name="springAop_luban" target="1.5" />
       <module name="springDemo_20200229" target="1.5" />
+      <module name="SpringMvcDemoWithJavaConfig_luban" target="1.7" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="hello-spring-cloud-zuul" options="-parameters" />
+      <module name="rabbitmqdemo_spingboot" options="-parameters" />
       <module name="springDemo_20200229" options="" />
     </option>
   </component>

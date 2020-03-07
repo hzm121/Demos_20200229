@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMvcDemoWithJavaConfig_luban:war">
+    <output-path>$PROJECT_DIR$/SpringMvcDemoWithJavaConfig_luban/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringMvcDemoWithJavaConfig_luban</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SpringMvcDemoWithJavaConfig_luban.war">
+      <element id="artifact" artifact-name="SpringMvcDemoWithJavaConfig_luban:war exploded" />
+    </root>
+  </artifact>
+</component>

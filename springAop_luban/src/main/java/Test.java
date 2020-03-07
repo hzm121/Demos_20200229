@@ -1,9 +1,6 @@
-import com.hzm.config.AppConfig;
-import com.hzm.dao.UserDao;
+import com.hzm.init.config.AppConfig;
+import com.hzm.init.dao.UserDao;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * @author : hzm

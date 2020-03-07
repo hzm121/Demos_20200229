@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/rabbitmqDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/redisDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMvcDemoWithJavaConfig_luban" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -8,8 +13,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springAop_luban/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmqdemo_spingboot/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$PROJECT_DIR$" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
